@@ -13,10 +13,19 @@
 - [Bazı kursların ücretsiz yüklenmişleri](https://courseflix.net/)
 - [Git Learning](https://learngitbranching.js.org/)
 - [Can I Use](https://caniuse.com/)
+<<<<<<< HEAD
+=======
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+>>>>>>> 1071411cfb235092e95aed82f00d994d128e10c7
 
 ## Extra Kaynaklar
 
 - [Frontend Challenge'lar icin](https://www.frontendmentor.io/challenges)
+<<<<<<< HEAD
+=======
+- [Flex Oyunu](https://flexboxfroggy.com/#tr)
+>>>>>>> 1071411cfb235092e95aed82f00d994d128e10c7
 
 ## Okumalar
 

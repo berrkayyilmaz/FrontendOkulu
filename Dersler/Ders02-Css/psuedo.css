@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> 1071411cfb235092e95aed82f00d994d128e10c7
 /* Psuedo Class */
 .link{
   color: rgb(249, 126, 3);
@@ -58,6 +61,7 @@ p::first-letter {
   content: "Merhaba Ben Başa Eklendim!";
   color: rgb(249, 126, 3);
   font-size: 24px;
+<<<<<<< HEAD
 }
 =======
 .link{
@@ -79,3 +83,6 @@ p::first-letter {
 }
 
 >>>>>>> Stashed changes
+=======
+}
+>>>>>>> 1071411cfb235092e95aed82f00d994d128e10c7
