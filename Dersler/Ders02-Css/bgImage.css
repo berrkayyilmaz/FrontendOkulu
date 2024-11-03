@@ -1,0 +1,28 @@
+.bgImage{
+    background-image: url(https://fastly.picsum.photos/id/548/536/354.jpg?hmac=qL2PIA_0CTKlOdmLWdeM-fnQ7RDbSEMTknPlBdUtW0U);
+    width: 500px;
+    height: 300px;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    color: rgb(0,94,225);
+}
+.title{
+    font-size: 30px;
+}
+.paragraph{
+    font-size: 24px;
+}
+@media screen and (max-width :768px) {
+    .title{
+        font-size: 24px;
+    }
+    .paragraph{
+        font-size: 18px;
+    }
+    .bgImage{
+        width: 300px;
+        height: 100px;
+        color: brown;
+    }
+}
