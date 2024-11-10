@@ -16,6 +16,8 @@
 <<<<<<< HEAD
 =======
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Tailwind](https://tailwindcss.com/docs/installation)
 
 >>>>>>> 1071411cfb235092e95aed82f00d994d128e10c7
 
@@ -25,7 +27,6 @@
 <<<<<<< HEAD
 =======
 - [Flex Oyunu](https://flexboxfroggy.com/#tr)
->>>>>>> 1071411cfb235092e95aed82f00d994d128e10c7
 
 ## Okumalar
 
