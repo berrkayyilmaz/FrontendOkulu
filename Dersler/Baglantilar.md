@@ -20,6 +20,10 @@
 - [Tailwind](https://tailwindcss.com/docs/installation)
 - [Jsonplaceholder](https://jsonplaceholder.typicode.com)
 - [Json-Server](https://github.com/typicode/json-server)
+- [NodeJS](https://nodejs.org/en)
+- [ReactJS](https://tr.react.dev/)
+- [Vite](https://vite.dev/guide/)
+- [Bun](https://bun.sh)
 
 >>>>>>> 1071411cfb235092e95aed82f00d994d128e10c7
 
