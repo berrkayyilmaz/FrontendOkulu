@@ -25,7 +25,6 @@
 - [Vite](https://vite.dev/guide/)
 - [Bun](https://bun.sh)
 
->>>>>>> 1071411cfb235092e95aed82f00d994d128e10c7
 
 ## Extra Kaynaklar
 
